@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">World Landmark</string>
+    <string-array name="landmark_name">
+        <item>Monas</item>
+        <item>Pissa</item>
+        <item>Sphinx</item>
+        <item>Taj Mahal</item>
+        <item>Angkor Wat</item>
+        <item>Colosseum</item>
+        <item>Eiffel Tower</item>
+        <item>Chinese Great Wall</item>
+        <item>Liberty Statue</item>
+    </string-array>
+    <string-array name="landmark_detail">
+        <item>Monumen Nasional atau yang populer disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter (433 kaki) yang didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia untuk merebut kemerdekaan dari pemerintahan kolonial Hindia Belanda. Pembangunan monumen ini dimulai pada tanggal 17 Agustus 1961 di bawah perintah presiden Sukarno, dan dibuka untuk umum pada tanggal 12 Juli 1975. Tugu ini dimahkotai lidah api yang dilapisi lembaran emas yang melambangkan semangat perjuangan yang menyala-nyala. Monumen Nasional terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat.</item>
+        <item>Menara Miring Pisa (Bahasa Italia: Torre pendente di Pisa atau disingkat Torre di Pisa), atau lebih dikenal dengan Menara Pisa, adalah sebuah campanile atau menara lonceng katedral di kota Pisa, Italia.
+
+Menara Pisa sebenarnya dibuat agar berdiri secara vertikal seperti menara lonceng pada umumnya, namun mulai miring tak lama setelah pembangunannya dimulai pada Agustus 1173. Ia terletak di belakang katedral dan merupakan bangunan ketiga Campo dei Miracoli (lapangan pelangi) kota Pisa.
+
+Ketinggian menara ini adalah 55,86 m dari permukaan tanah terendah dan 56,70 m dari permukaan tanah tertinggi. Kelebaran dinding di bawahnya mencapai 4,09 m dan di puncak 2,48 m. Bobotnya diperkirakan mencapai 14.500 ton. Menara Pisa memiliki 294 anak tangga. Dengan adanya menara ini, sektor pendapatan ekonomi jadi bertambah karena adanya objek wisata.
+
+Menara Pisa juga diterima sebagai salah satu Situs Warisan Dunia UNESCO.</item>
+        <item>Sphinx Agung Giza (Arab: أبو الهول‎ Abū al Hūl, bahasa Inggris: The Terrifying One) adalah sebuah patung sfinks besar berbentuk kepala manusia dan berbadan singa yang terdapat di Mesir, di daerah Dataran Giza, tepi barat Sungai Nil, dekat Kairo sekarang. Ini adalah satu dari beberapa patung terbesar di dunia yang terbuat dari satu batu utuh, dan dipercaya telah dibangun oleh peradaban Mesir Kuno pada milenium ketiga SM.
+
+Asal muasal nama yang digunakan oleh masyarakat Mesir Kuno untuk menyebut patung ini sama sekali tidak diketahui. Nama "sfinks" yang biasa digunakan diambil dari nama makhluk mitologi Yunani. Makhluk ini mempunyai tubuh seekor singa dan kepala seorang wanita, dan sayap seekor elang, walaupun patung sfinks Mesir memiliki kepala laki-laki. Kata "sfinks" berasal dari bahasa Yunani (bahasa Yunani: Σφιγξ— Sphinx, dari kata kerja σφιγγω — sphingo) yang berarti mencekik, karena sfinks dari mitologi Yunani mencekik orang yang tidak dapat menjawab pertanyaan teka-tekinya. Bagi beberapa orang, dipercayai bahwa nama ini merupakan perubahan kata dari bahasa Mesir kuno Shesep-ankh, sebuah nama yang diberikan kepada patung bangsawan pada Dinasti Keempat. Pada tulisan-tulisan abad pertengahan, nama balhib dan bilhaw yang menunjuk pada Sphinx dipergunakan, termasuk oleh sejarawan Mesir Maqrizi, yang menyarankan penyusunan bahasa Koptik, tetapi istilah Arab-Mesir Abul-Hôl, yang diartikan sebagai "Bapak Teror," lebih banyak digunakan.walaupun diartikan "Bapak Teror", sphinx merupakan salah satu kebudayaan modern dimasanya, dan merupakan kawasan wisata yang diminati.</item>
+        <item>Taj Mahal (bahasa Urdu: تاج محل, Hindi: ताज महल) adalah sebuah monumen yang terletak di Agra, India. Dibangun atas keinginan Kaisar Mughal Shāh Jahān, anak Jahangir, sebagai sebuah musoleum untuk istri Persianya, Arjumand Banu Begum, juga dikenal sebagai Mumtaz-ul-Zamani atau Mumtaz Mahal. Taj Mahal merupakan sebuah adi karya dari arsitektur Mughal.
+
+Shah Jahan, kaisar dari Kekaisaran Mughal memiliki kekayaan yang besar selama masa kejayaannya. Pada 1631 istri ketiganya dan merupakan istri yang paling dicintainya wafat sewaktu melahirkan putrinya Gauhara Begum, anak ke-14 mereka.
+
+Pada tahun 1983 Taj Mahal diterima sebagai Situs Warisan Dunia UNESCO.</item>
+        <item>Angkor Wat (bahasa Khmer: អង្គរវត្ត, "Candi Kota") adalah sebuah gugus bangunan candi di negara Kamboja yang merupakan monumen keagamaan terbesar di dunia. Candi yang berdiri di atas situs seluas 1.626.000 m2 (162,6 hektar atau 402 ekar) ini mula-mula dibangun sebagai candi agama Hindu Kemaharajaan Khmer yang dibaktikan bagi dewa Wisnu, namun lambat laun berubah menjadi candi agama Buddha menjelang akhir abad ke-12. Angkor Wat dibangun oleh Raja Khmer, Suryawarman II, pada permulaan abad ke-12 di Yaśodharapura (bahasa Khmer: យសោធរបុរៈ, sekarang Angkor), ibu kota Kemaharajaan Khmer, sebagai candi negara sekaligus tempat persemayaman abu jenazahnya. Berbeda dari raja-raja pendahulunya yang berbakti pada dewa Siwa, Raja Suryawarman II justru membangun Angkor Wat untuk dibaktikan bagi dewa Wisnu. Sebagai candi yang paling terawat di kawasan percandian itu, Angkor Wat merupakan satu-satunya candi yang masih menjadi pusat keagamaan penting semenjak didirikan. Mahakarya langgam klasik arsitektur Khmer ini telah menjadi salah satu lambang negara Kamboja, ditampilkan pada bendera negara Kamboja, dan menjadi daya tarik wisata utama negara itu.
+
+Angkor Wat memadukan dua rancangan pokok arsitektur candi Khmer, yakni rancangan candi gunung dan rancangan candi berserambi. Angkor Wat dirancang sebagai lambang Gunung Meru, kahyangan dewa-dewi Hindu, dikelilingi tiga undak bangunan serambi persegi panjang, dan masih dipagari lagi dengan tembok luar sepanjang 3,6 km (2,2 mil) berikut sebuah parit sepanjang lebih dari 5 km (3 mil). Di tengah-tengah gugus bangunan candi ini, menjulang menara-menara yang membentuk tatanan quinquncia (tatanan lima objek yang membentuk salib, salah satunya terletak pada titik persilangan salib). Berbeda dari kebanyakan candi yang bertebaran di kawasan percandian Angkor, candi ini dibangun menghadap ke arah barat; para peneliti berbeda pendapat sehubungan dengan perbedaan ini. Angkor Wat dikagumi karena kemegahan dan keselarasan arsitekturnya, luasnya bidang yang dihiasi relief dangkal, dan sekian banyak sosok dewata yang terukir pada tembok-temboknya.</item>
+        <item>Kolosseum adalah sebuah peninggalan bersejarah berupa arena gladiator, dibangun oleh Vespasian. Tempat pertunjukan yang besar berbentuk elips yang disebut amfiteater atau dengan nama aslinya Flavian Amphitheatre, yang termasuk salah satu dari Enam Puluh Sembilan Keajaiban Dunia Pertengahan. Situs ini terletak di kota kecil di Italia, Roma, yang didirikan oleh Wali kota Vespasian pada masa Domitianus dan diselesaikan oleh anaknya Titus, dan menjadi salah satu karya terbesar dari arsitektur Kerajaan Romawi yang pernah dibangun. Kolosseum dirancang untuk menampung 50.000 orang penonton.</item>
+        <item>Menara Eiffel (bahasa Perancis: Tour Eiffel, /tuʀ ɛfɛl/) merupakan sebuah menara besi yang dibangun di Champ de Mars di tepi Sungai Seine di Paris. Menara ini telah menjadi ikon global Perancis dan salah satu struktur terkenal di dunia.</item>
+        <item>Tembok Besar Tiongkok atau Tembok Raksasa Tiongkok (hanzi tradisional: 長城; hanzi sederhana: 长城; pinyin: Chángchéng, makna harafiah: Tembok Panjang), juga dikenal di Tiongkok dengan nama Tembok Sepanjang 10.000 Li¹ (萬里長城; 万里长城; Wànlĭ Chángchéng) merupakan bangunan terpanjang yang pernah dibuat manusia, terletak di Tiongkok.
+
+Tembok Besar Tiongkok dianggap sebagai salah satu dari Tujuh Keajaiban Dunia. Pada tahun 1987, bangunan ini dimasukkan dalam daftar Situs Warisan Dunia UNESCO.</item>
+        <item>Patung Liberty (sebutan lain dalam bahasa Inggris: Liberty Enlightening the World, bahasa Perancis: La Liberté éclairant le monde) adalah suatu patung berukuran raksasa yang terletak di Pulau Liberty, di muara Sungai Hudson di New York Harbor, Amerika Serikat. Patung ini dihadiahkan Perancis untuk Amerika Serikat pada akhir abad ke-19 dan merupakan suatu simbol selamat datang untuk pengunjung, imigran dan orang Amerika yang kembali.
+
+Patung perunggu yang diresmikan pada tanggal 28 Oktober 1886 ini merupakan hadiah seratus tahun kemerdekaan Amerika Serikat dan merupakan ungkapan persahabatan antara kedua negara. Pemahat patung adalah Frederic Auguste Bartholdi, dan Gustave Eiffel (desainer Menara Eiffel) merancang struktur penyangga dalamnya. Patung Liberty adalah salah satu lambang AS yang paling terkenal di seluruh dunia, dan melambangkan kemerdekaan dan kebebasan dari tekanan.
+
+Pada tahun 1984, Patung Liberty masuk dalam daftar Situs Warisan Dunia UNESCO.</item>
+    </string-array>
+</resources>
